@@ -1,6 +1,6 @@
 .navbar {
     /* background-color: #431bd3; Change the background color */
-    background-color: #87CEEB; /* Light blue color */
+    background-color: #fab5b5; /* Light blue color */
       
     float: none;
 }
@@ -9,7 +9,7 @@ body{
 }
 
 .navbar-brand, .navbar-nav .nav-link {
-    color: #fff; /* Change the text color */
+    color: #fab5b5; /* Change the text color */
     text-align: right;
 }
 
@@ -51,15 +51,15 @@ body{
 
 /* Style for Self-Assessment Tools Section */
 #self-assessment {
-    background-color: #f5f5f5; /* Background color for the section */
+    background-color: fab5b5; /* Background color for the section */
     padding: 40px 0;
 }
 
 .assessment-item {
-    background-color: #fff; /* Background color for each assessment item */
+    background-color: #fab5b5; /* Background color for each assessment item */
     padding: 20px;
     margin-bottom: 20px;
-    border: 1px solid #e0e0e0; /* Border for each assessment item */
+    border: 1px solid #e0ff66; /* Border for each assessment item */
 }
 
 .assessment-item h3 {
@@ -82,7 +82,7 @@ body{
 }
 
 .assessment-item a:hover {
-    background-color: #ff7f50; /* Background color on hover */
+    background-color: #fab5b5; /* Background color on hover */
 }
 
 /* Style for Support Resources Section */
@@ -92,10 +92,10 @@ body{
 }
 
 .resource-item {
-    background-color: #fff; /* Background color for each resource item */
+    background-color: #fab5b5; /* Background color for each resource item */
     padding: 20px;
     margin-bottom: 20px;
-    border: 1px solid #e0e0e0; /* Border for each resource item */
+    border: 1px solid #fff; /* Border for each resource item */
 }
 
 .resource-item h3 {
@@ -110,7 +110,7 @@ body{
     display: inline-block;
     padding: 10px 20px;
     background-color: #3498db; /* Background color for the "Explore" or "Join" button */
-    color: #fff;
+    color: #f9944c;
     text-decoration: none;
     font-weight: bold;
     border-radius: 4px;
